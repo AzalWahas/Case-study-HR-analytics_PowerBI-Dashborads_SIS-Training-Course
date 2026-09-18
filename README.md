@@ -1,13 +1,11 @@
+# Workforce Analytics & HR Performance Dashboard
+
 A comprehensive, multi-page Power BI workforce analytics solution designed to track employee metrics, demographic distributions, performance evaluations, and organizational attrition trends.
 
----
+## 🎯 Project Goals
 
-## 📂 Dashboard Pages & Structure
-
-├── Overview Page            # High-level organizational headcount, hiring trends, and active departmental breakdowns
-├── Demographics Page        # Employee age distribution, marital status splits, and ethnicity/salary profiles
-├── Performance Tracker Page # Individual employee progression timelines, satisfaction scores, and rating histories
-└── Attrition Page           # Turnover rates by tenure, department, travel frequency, and overtime status
+* **Primary Goal**: Monitor key HR metrics on employees.
+* **Secondary Goal**: Understand what factors impact attrition.
 
 ---
 
@@ -39,12 +37,12 @@ A comprehensive, multi-page Power BI workforce analytics solution designed to tr
 ## 🛠️ Global Filters & Navigation
 
 * **Navigator Panel**: Quick-access button sidebar allowing seamless switching between Overview, Demographics, Performance Tracker, and Attrition views.
-* **Global Filters**: Persistent slicers enabling real-time cross-filtering across the entire report by **Year**, **Department**, and **Gender**.
+* **Global Filters**: Persistent slicers enabling real-time cross-filtering across the entire report by Year, Department, and Gender.
 
 ---
 
 ## 🚀 Getting Started
 
-1. **Prerequisites**: Ensure you have **Power BI Desktop** installed.
+1. **Prerequisites**: Ensure you have Power BI Desktop installed.
 2. **Open Project**: Open the corresponding `.pbix` report file to load the underlying data model and visual layouts.
 3. **Explore**: Utilize the global filters on the left panel and switch between pages using the Navigator menu to interact with the workforce insights.
